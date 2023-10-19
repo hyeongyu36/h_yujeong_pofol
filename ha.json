@@ -1,67 +1,71 @@
 {
   "portfolioItems": [
     {
-      "h": "PERSONAL PROJECT",
-      "title": "STX 건설",
-      "date": "2023. 11. 08 ~ 2023. 11. 21",
-      "contributors": "1명(기여도: 100%)",
-      "technologies": "HTML, CSS, JavaScript",
-      "src": "images/stx.gif",
+      "h": "TEAM PROJECT",
+      "title": "별의온도",
+      "date": "2023. 09. 06 ~ 2023. 10. 13",
+      "contributors": "3명(기여도: 80%)",
+      "technologies": "HTML, CSS, JavaScript, Photoshop, Github",
+      "page": "Main + Sub * 3",
+      "src": "images/preview.jpg",
       "link": {
         "workLabel": "work",
         "githubLabel": "github",
-        "originLabel": "origin",
-        "work": "https://",
-        "github": "https://",
-        "origin": "http://"
-      }
-    },
-    {
-      "h": "PERSONAL PROJECT",
-      "title": "STX 건설",
-      "date": "2023. 11. 08 ~ 2023. 11. 21",
-      "contributors": "1명(기여도: 100%)",
-      "technologies": "HTML, CSS, JavaScript",
-      "src": "images/stx.gif",
-      "link": {
-        "workLabel": "work",
-        "githubLabel": "github",
-        "originLabel": "origin",
-        "work": "https://",
-        "github": "https://",
-        "origin": "http://"
-      }
-    },
-    {
-      "h": "PERSONAL PROJECT",
-      "title": "STX 건설",
-      "date": "2023. 11. 08 ~ 2023. 11. 21",
-      "contributors": "1명(기여도: 100%)",
-      "technologies": "HTML, CSS, JavaScript",
-      "src": "images/stx.gif",
-      "link": {
-        "workLabel": "work",
-        "githubLabel": "github",
-        "originLabel": "origin",
-        "work": "https://",
-        "github": "https://",
-        "origin": "http://"
+        "pptLabel": "ppt",
+        "work": "https://sod-eight.vercel.app/",
+        "github": "https://github.com/hyeongyu36/stars_on_donation",
+        "ppt": "https://www.canva.com/design/DAFtkLGM6ek/ww6B_6-wIQ5BVnf2MvBU-Q/view?utm_content=DAFtkLGM6ek&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
       }
     },
     {
       "h": "TEAM PROJECT",
-      "title": "00000000",
+      "title": "아라리움 ARARIUM",
+      "date": "2023. 08. 11 ~ 2023. 09. 13",
+      "contributors": "4명(기여도: 70%)",
+      "technologies": "HTML, CSS, JavaScript, Photoshop, Illustrator, Github",
+      "page": "Main + Sub * 3",
+      "src": "images/preview_ararium.jpg",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "pptLabel": "ppt",
+        "work": "https://hamb20001013.github.io/ararium/index.html",
+        "github": "https://github.com/hyeongyu36/ararium",
+        "ppt": "https://www.canva.com/design/DAFsJLdbd5o/Fs5qcIndcOiobYnaX1rBYA/view?utm_content=DAFsJLdbd5o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
       "date": "2023. 11. 08 ~ 2023. 11. 21",
-      "contributors": "3명(기여도: 80%)",
+      "contributors": "1명(기여도: 100%)",
       "technologies": "HTML, CSS, JavaScript",
+      "page": "Main + Sub * 3",
       "src": "images/stx.gif",
       "link": {
-        "workLabel": "Notion",
-        "githubLabel": "GitHub",
-        "originLabel": "Figma",
-        "Notion": "https://",
-        "GitHub": "https://",
-        "Figma": "http://"
+        "workLabel": "work",
+        "githubLabel": "github",
+        "pptLabel": "ppt",
+        "work": "https://hyeongyu36.github.io/230602-STXpage/",
+        "github": "https://github.com/hyeongyu36/230602-STXpage.git",
+        "ppt": ""
+      }
+    },
+    {
+      "h": "TEAM PROJECT",
+      "title": "도시락통",
+      "date": "2023. 07. 11 ~ 2023. 09. 12",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "page": "Main",
+      "src": "images/preview_dosiraktong.jpg",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "pptLabel": "ppt",
+        "work": "hhttps://230711-study-dosiraktong-t.vercel.app/",
+        "github": "https://github.com/hyeongyu36/230711-study-dosiraktong-t",
+        "ppt": ""
       }
     }
   ]

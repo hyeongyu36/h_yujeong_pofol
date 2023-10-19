@@ -133,7 +133,8 @@ window.onload = function () {
                <p>${item.date}</p>
                <span>
                    제작 인원: ${item.contributors} <br />
-                   사용 프로그램: ${item.technologies}
+                   TOOL: ${item.technologies}<br/>
+                   PAGE: ${item.page}
                </span>
                <div class="swiper-btn">
                <a href="${
@@ -143,8 +144,8 @@ window.onload = function () {
                  item.link.github || item.link.GitHub
                }" target="_blank">${item.link.githubLabel}</a>
                <a href="${
-                 item.link.origin || item.link.Figma
-               }" target="_blank">${item.link.originLabel}</a>
+                 item.link.ppt || item.link.Figma
+               }" target="_blank">${item.link.pptLabel}</a>
                </div>
            </div>
          </div>
