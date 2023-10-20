@@ -270,7 +270,7 @@ body {
   justify-content: space-between;
 
   background-color: #f4f4f4;
-  gap: 40px;
+  /* gap: 40px; */
   margin: 20px auto;
 }
 .visual-left {
@@ -325,7 +325,7 @@ body {
 .vmw {
   display: block;
   position: relative;
-  margin: 70px 0 0 40px;
+  margin: 70px 0 70px 40px;
   cursor: pointer;
 }
 .vmw:hover {
@@ -341,8 +341,8 @@ body {
 }
 .v-img {
   margin: 50px;
-  width: 80%;
-  height: auto;
+  width: 75%;
+  height: 85%;
   text-align: center;
   object-fit: cover;
 }
@@ -356,8 +356,7 @@ body {
   }
   .vmw {
     width: 60%;
-
-    margin: 50px 0 0 40px;
+    margin: 50px 0 50px 40px;
   }
 }
 
@@ -369,8 +368,8 @@ body {
     font-size: 1.4rem;
   }
   .vmw {
-    width: 60%;
-    margin: 50px 0 0 40px;
+    width: 40%;
+    margin: 50px 0 50px 40px;
   }
 }
 @media screen and (max-width: 920px) {
