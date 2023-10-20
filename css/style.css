@@ -945,7 +945,41 @@ body {
   font-size: 1.2rem;
   margin-bottom: 60px;
 }
-
+.gallery-box{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.gallery-item{
+  display: flex;
+  justify-content: center;
+}
+.gallery-item li{
+  width: 25%;
+  height: 300px;
+  margin: 0 10px;
+}
+/* .gallery-item li a{ 
+  width: 25%;
+  height: 300px;
+} */
+.gallery-item li img{
+object-fit: cover;
+height: 250px;
+width: 100%;
+}
+@media all and (min-width: 480px) and (max-width: 584px) {
+  .gallery-item{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .gallery-item li{
+    width:50%;
+    height: 300px;
+    margin: 0 10px;
+  }
+}
 /* swiper */
 .swVisual-wrap-1 {
   position: relative;
