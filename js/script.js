@@ -166,4 +166,16 @@ window.onload = function () {
     .catch((error) => {
       console.error("JSON 파일 로드 중 오류 발생:", error);
     });
+  // gallery_modal 클릭시
+const gallery_item = document.querySelectorAll('.gallery-item li')
+const gallery_modal = document.querySelectorAll('.gallery_modal')
+gallery_item.forEach(function(target, index){
+    target.addEventListener('click', function(e){
+        e.preventDefault();
+        gallery_modal[index].classList.add('active')
+    })
+    for(let i of gallery_modal){i.addEventListener('click', function(){
+        i.classList.remove('active')
+    })}
+})
 };
