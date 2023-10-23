@@ -172,10 +172,12 @@ const gallery_modal = document.querySelectorAll('.gallery_modal')
 gallery_item.forEach(function(target, index){
     target.addEventListener('click', function(e){
         e.preventDefault();
-        gallery_modal[index].classList.add('active')
+      gallery_modal[index].classList.add('active')
+      document.body.style.overflow = "hidden"; // body 스크롤 비활성화
     })
     for(let i of gallery_modal){i.addEventListener('click', function(){
-        i.classList.remove('active')
+      i.classList.remove('active')
+      document.body.style.overflow = "auto"; // body 스크롤 비활성화
     })}
 })
 };
