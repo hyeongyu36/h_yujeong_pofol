@@ -138,13 +138,13 @@ window.onload = function () {
                </span>
                <div class="swiper-btn">
                <a href="${
-                 item.link.work || item.link.Notion
+                 item.link.work || item.link.Figma
                }" target="_blank">${item.link.workLabel}</a>
                <a href="${
                  item.link.github || item.link.GitHub
                }" target="_blank">${item.link.githubLabel}</a>
                <a href="${
-                 item.link.ppt || item.link.Figma
+                 item.link.ppt || item.link.Notion
                }" target="_blank">${item.link.pptLabel}</a>
                </div>
            </div>
