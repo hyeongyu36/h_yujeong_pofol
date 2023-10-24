@@ -23,7 +23,7 @@
       "date": "2023. 08. 11 ~ 2023. 09. 13",
       "contributors": "4명(기여도: 30%)",
       "technologies": "HTML, CSS, JavaScript, Photoshop, Illustrator, Github",
-      "page": "Main + Sub * 3",
+      "page": "Main + Sub * 1",
       "src": "images/preview_ararium.jpg",
       "link": {
         "workLabel": "work",
@@ -40,15 +40,15 @@
       "date": "제작기간 : 1주",
       "contributors": "1명(기여도: 100%)",
       "technologies": "HTML, CSS, JavaScript",
-      "page": "Main + Sub * 3",
+      "page": "Main",
       "src": "images/stx.gif",
       "link": {
         "workLabel": "work",
         "githubLabel": "github",
-        "pptLabel": "ppt",
+        "pptLabel": "notion",
         "work": "https://hyeongyu36.github.io/230602-STXpage/",
         "github": "https://github.com/hyeongyu36/230602-STXpage.git",
-        "ppt": ""
+        "notion": ""
       }
     },
     {
@@ -62,10 +62,10 @@
       "link": {
         "workLabel": "work",
         "githubLabel": "github",
-        "pptLabel": "ppt",
+        "pptLabel": "notion",
         "work": "hhttps://230711-study-dosiraktong-t.vercel.app/",
         "github": "https://github.com/hyeongyu36/230711-study-dosiraktong-t",
-        "ppt": ""
+        "notion": "https://melodious-wilderness-46c.notion.site/1671eda1872b490d8b35092383a8b08f?pvs=4"
       }
     }
   ]
