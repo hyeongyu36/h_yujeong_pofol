@@ -996,7 +996,7 @@ body {
 }
 .gallery_tap{
   position: absolute;
-  top: 8%;
+  top: 6%;
   /* background-color: aliceblue; */
   width: 80%;
   max-width: 800px;
@@ -1065,7 +1065,7 @@ body {
 }
 @media all and (max-width: 480px) {
   .gallery_modal .img_wrap {
-    top: 58%;
+    /* top: 58%; */
   }
   .gallery_modal i{
     font-size: 20px;
