@@ -36,36 +36,36 @@
     },
     {
       "h": "PERSONAL PROJECT",
-      "title": "STX 건설",
-      "date": "제작기간 : 1주",
+      "title": "어피티 UPPITY",
+      "date": "제작기간 : 3개월",
       "contributors": "1명(기여도: 100%)",
-      "technologies": "HTML, CSS, JavaScript",
-      "page": "Main",
-      "src": "images/stx.gif",
+      "technologies": "Photoshop, Illustrator, Pigma",
+      "page": "Main + Sub * 11",
+      "src": "images/uppity.png",
       "link": {
-        "workLabel": "work",
-        "githubLabel": "github",
+        "workLabel": "figma",
+        "githubLabel": "pdf",
         "pptLabel": "notion",
-        "work": "https://hyeongyu36.github.io/230602-STXpage/",
-        "github": "https://github.com/hyeongyu36/230602-STXpage.git",
-        "ppt": "https://melodious-wilderness-46c.notion.site/STX-190e6da5acf2478da1c649c4c6c3952c?pvs=4"
+        "work": "https://www.figma.com/file/yilb4JSGxugzIFJkYV9t6w/UPPITY-%EC%96%B4%ED%94%BC%ED%8B%B0?type=design&node-id=667%3A3634&mode=design&t=vM8QwfiuzjARwKuQ-1",
+        "github": "images/UPPITY 어피티_pdf.pdf",
+        "ppt": "https://melodious-wilderness-46c.notion.site/UPPITY-6e15f23288e64a6b91ac7d9dd5277500?pvs=4"
       }
     },
     {
-      "h": "TEAM PROJECT",
-      "title": "도시락통",
-      "date": "제작기간 : 1주",
+      "h": "PERSONAL PROJECT",
+      "title": "대구서구청소년센터",
+      "date": "제작기간 : 17일",
       "contributors": "1명(기여도: 100%)",
-      "technologies": "HTML, CSS, JavaScript",
-      "page": "Main",
-      "src": "images/preview_dosiraktong.jpg",
+      "technologies": "HTML, CSS, JavaScript, figma",
+      "page": "Main + Sub * 4",
+      "src": "images/seogu.png",
       "link": {
-        "workLabel": "work",
+        "workLabel": "figma",
         "githubLabel": "github",
         "pptLabel": "notion",
-        "work": "hhttps://230711-study-dosiraktong-t.vercel.app/",
-        "github": "https://github.com/hyeongyu36/230711-study-dosiraktong-t",
-        "ppt": "https://melodious-wilderness-46c.notion.site/1671eda1872b490d8b35092383a8b08f?pvs=4"
+        "work": "https://www.figma.com/file/l4z8anpwugWPAsUYhq5yQR/%5B%EB%8C%80%EA%B5%AC%EC%84%9C%EA%B5%AC%EC%B2%AD%EC%86%8C%EB%85%84%EC%88%98%EB%A0%A8%EA%B4%80%5D?type=design&node-id=33%3A466&mode=design&t=PDLECRlDeJk7XAoV-1",
+        "github": "https://hyeongyu36.github.io/dg_seoguyouth/",
+        "ppt": "https://melodious-wilderness-46c.notion.site/dd75ee462fa24d3182f26adac12c414e?pvs=4"
       }
     }
   ]
